@@ -1,6 +1,7 @@
-1. installer les logiciel ci-dessous
-2. ouvrir VSCODE et coder le program
-3. save file as "program.java"
-4. install the following extension "vscjava.vscode-java-pack"
-5. executer le program
-6. 
+créer un dossier "DevOps"
+ouvrir le dossier "DevOps" partir du CMD
+initialiser un REPOSITORY à partir de la command "git init"
+créer un fichier "program.java" qui contiendra un program.
+ajouter le fichier à la zone de transit "git add program.java"
+[git commit -m "added program.java to the repo" ] pour ajouter le fichier en zone de transit dans l'historique du projet.
+administrer les connexions à distance [git remote add origin https://github.com/kinguemax7/DevOps.git]
