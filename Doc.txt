@@ -1,0 +1,6 @@
+1. installer les logiciel ci-dessous
+2. ouvrir VSCODE et coder le program
+3. save file as "program.java"
+4. install the following extension "vscjava.vscode-java-pack"
+5. executer le program
+6. 
